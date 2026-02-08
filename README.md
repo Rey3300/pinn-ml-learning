@@ -1,4 +1,5 @@
-# PINN-ML-Learning
+#PINN-ML-Learning
+# PINN Learning Journey
 
 My 10-week structured learning path to master physics-informed neural networks 
 for computational finance.
@@ -24,7 +25,7 @@ By the end of 10 weeks, I will be able to:
 - Normal and log-normal distributions
 - Basic probability simulations
 
-### Week 2: [In Progress / Not Started]
+### Week 2: [Not Started]
 ...
 
 ## Repository Structure
@@ -43,50 +44,8 @@ By the end of 10 weeks, I will be able to:
 - Python Engineer: PyTorch tutorials
 
 **Books:**
-- (List as you use them)
+- 
 
 ## Contact
 
-GitHub: @YOUR_USERNAME  
-(Optional: Link to LinkedIn, personal website)
-```
-
-**Save this file.**
-
----
-
-### **STEP 5: Create .gitignore (Important!)**
-
-**Your repository should already have a .gitignore file. Open it and make sure it includes:**
-```
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints/
-*/.ipynb_checkpoints/*
-
-# Python cache
-__pycache__/
-*.py[cod]
-*$py.class
-
-# Virtual environments
-venv/
-env/
-ENV/
-
-# Large data files (don't upload large datasets)
-*.csv
-*.h5
-*.pkl
-data/
-datasets/
-
-# OS files
-.DS_Store
-Thumbs.db
-
-# Large output files
-*.mp4
-*.mov
-
-# Personal notes (if you want them private)
-personal-notes.md
+GitHub: @Rey3300
